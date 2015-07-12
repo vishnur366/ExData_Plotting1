@@ -1,4 +1,4 @@
-setwd("/Users/pacha/Dropbox/R/ExData_Plotting1")
+setwd("/Users/Dropbox/R/ExData_Plotting1")
 
 source("load_data.R")
 
